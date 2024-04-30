@@ -40,7 +40,7 @@ The objective is to find an optimal strategy that maximizes the person's gain ov
 
 ## Detailed Implementation and Theoretical Details
 
-For a more detailed implementation and theoretical insights, please refer to [my Master's thesis]([link_here](https://hdl.handle.net/20.500.14330/TES01000781267)).
+For a more detailed implementation and theoretical insights, please refer to [my Master's thesis](https://hdl.handle.net/20.500.14330/TES01000781267).
 
 
 ## Acknowledgements
